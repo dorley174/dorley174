@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" width="600" src="![Image](https://github.com/user-attachments/assets/8c02c93b-0e58-4b67-bfa8-0dbd786eb2f7)"  />
+  <img height="300" width="600" src="https://user-images.githubusercontent.com/377675cb-a06b-43a4-9986-ee4434fd6a1e.gif"  />
 </div>
 
 ###
