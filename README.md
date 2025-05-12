@@ -57,7 +57,7 @@
 ###
 
 <p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
+ <img width="600" src="[assets/github-snake.svg](https://github.com/dorley174/dorley174/blob/output/github-contribution-grid-snake.svg)" alt="snake"/>
 </p>
 
 ###
