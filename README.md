@@ -57,7 +57,11 @@
 ###
 
 <p align="center">
- <img width="600" src="[assets/github-snake.svg](https://github.com/dorley174/dorley174/blob/output/github-contribution-grid-snake.svg)" alt="snake"/>
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/dorley174/snk/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/dorley174/snk/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 </p>
 
 ###
