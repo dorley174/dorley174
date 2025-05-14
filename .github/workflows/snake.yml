@@ -2,13 +2,16 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 12 * * *" # каждый день в полночь
+    - cron: "0 12 * * *"  # каждый день в полночь
   workflow_dispatch:     # вручную
   push:                  # при пуше
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Требуется доступ на запись для операций с контентом
+      pages: write     # Для push в ветку, которая используется GitHub Pages
     steps:
       - uses: Platane/snk@v3
         with:
