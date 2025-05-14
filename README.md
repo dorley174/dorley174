@@ -57,15 +57,9 @@
 ###
 
 <p align="center">
-  <img alt="GithubSnakeEatingCommits" 
-       src="https://dorley174.github.io/dorley174/github-snake.svg" 
-       media="(prefers-color-scheme: light)"
-       style="max-width: 100%; height: auto; display: block;">
-  <img alt="GithubSnakeEatingCommitsDark" 
-       src="https://dorley174.github.io/dorley174/github-snake-dark.svg" 
-       media="(prefers-color-scheme: dark)"
-       style="max-width: 100%; height: auto; display: block;">
+  <img alt="Github Snake" src="https://dorley174.github.io/dorley174/github-snake-dark.svg" style="max-width: 100%; height: auto;" />
 </p>
+
 
 
 ###
