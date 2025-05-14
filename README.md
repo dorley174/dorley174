@@ -61,7 +61,7 @@
     <!-- dark browser theme-->
     <source srcset="https://dorley174.github.io/dorley174/github-snake-dark.svg" media="(prefers-color-scheme: dark)">
     <!-- light browser theme -->
-    <img alt="GithubSnakeEatingCommits" src="https://dorley174.github.io/dorley174/github-snake.svg">
+    <source srcset ="https://dorley174.github.io/dorley174/github-snake.svg" media="(prefers-color-scheme: light)">
   </picture>
 </p>
 
