@@ -57,11 +57,14 @@
 ###
 
 <p align="center">
- <picture>
-  <source alt="GithubSnakeEatingCommits" srcset="https://github.com/dorley174/dorley174/blob/output/github-snake.svg" />
-  <
-</picture>
+  <picture>
+    <!-- dark browser theme-->
+    <source srcset="https://dorley174.github.io/dorley174/github-snake-dark.svg" media="(prefers-color-scheme: dark)">
+    <!-- light browser theme -->
+    <img alt="GithubSnakeEatingCommits" src="https://dorley174.github.io/dorley174/github-snake.svg">
+  </picture>
 </p>
+
 
 ###
 
